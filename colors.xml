@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="edm_primary">#2F6FED</color>
+    <color name="edm_secondary">#00C9A7</color>
+    <color name="edm_bg_light">#FAFAFC</color>
+    <color name="edm_bg_dark">#101114</color>
+</resources>
